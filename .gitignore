@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+*/target/*
+target/*
+/.settings/
+.project
+.classpath
+.idea
+/**/*.iml
+/motan-server/target
+/motan-client/target
+/target
+
